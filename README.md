@@ -1,6 +1,6 @@
 # A simple TicTacToe using React
 
-Head over to [ uglify.ga ](https://viwicodes.github.io/tictactoe_react/)play this exciting TicTacToe game!
+Head over [ here ](https://viwicodes.github.io/tictactoe_react/) to play this exciting TicTacToe game!
 
 
 ### `React based game`
